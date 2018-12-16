@@ -1,0 +1,2 @@
+# mastodon_freebsd_jail
+mastodonをFreeBSDのjailにインストールしたいの
